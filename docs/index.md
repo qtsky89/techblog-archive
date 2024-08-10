@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Wonhee's Tech Blog"
-  text: "I'm Wonhee. Backend Software Engineer for 10 years. This is my tech blog."
+  text: "Backend Software Engineer for 10 years."
   tagline: My great project tagline
   actions:
     - theme: brand
