@@ -4,22 +4,17 @@ layout: home
 
 hero:
   name: "Wonhee's Tech Blog"
-  text: "Backend Software Engineer for 10 years."
-  tagline: My great project tagline
+  text: "Fullstack Engineer"
+  tagline: What I’ve learned throughout my career
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Blog Link
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Company Project
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Side Project
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
